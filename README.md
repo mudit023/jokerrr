@@ -23,7 +23,8 @@ This extension is not available on chrome webstore you have to install it locall
 
 - It's ready to use!
 
-<img src="images\extension working.png" alt="Download repo">
+<img src="images\extension.png" alt="Download repo">
+<img src="images\extension_2.png" alt="Download repo">
 
 ## Tech used:
 - [fetch() web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
